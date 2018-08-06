@@ -1,0 +1,6 @@
+def draw_1d()
+    print("*")
+    print("*")
+    print("*")
+    print("*")
+    print("*")
